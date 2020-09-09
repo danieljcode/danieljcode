@@ -6,3 +6,5 @@
 - 😄 **Pronouns:** He/Him
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=danieljcode&)
+<br>
+![Twitter](https://img.shields.io/twitter/follow/danieljcode?color=blue&logo=twitter&style=for-the-badge)
