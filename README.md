@@ -5,7 +5,7 @@
 - 📫 **How to reach me:** danieljohncode@tutanota.com
 - 😄 **Pronouns:** He/Him
 
-![My stats](https://github-readme-stats.vercel.app/api?username=danieljcode&)
+![My stats](https://github-readme-stats.vercel.app/api?username=danieljcode&layout=full&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljcode&layout=full&hide_border=true)
 
 <br>
