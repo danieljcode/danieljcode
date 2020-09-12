@@ -19,11 +19,6 @@
       <td width="20%" align="center">
         <span><strong>Jvascript</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-       <td width="20%" align="center">
-        <span><strong>Learning node.js</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
         <td width="20%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
@@ -31,6 +26,11 @@
       <td width="20%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+       </td>
+       <td width="20%" align="center">
+        <span><strong>Learning node.js</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Basic PHP (for college)</strong></span><br><br><br>
