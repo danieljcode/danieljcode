@@ -32,6 +32,10 @@
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
+      <td width="20%" align="center">
+        <span><strong>Basic PHP (for college)</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
     </tr>
       </tbody>
 </table>
