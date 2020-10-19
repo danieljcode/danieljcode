@@ -1,42 +1,29 @@
-### Hi there, I'm Daniel! 👋
+# Hi there, I'm Daniel! 👋
 
-- 🔭 **I’m currently working on:** Learning Javascript and Node.js 💻
+- 🔭 **I’m currently working on:** Learning Node.js and React 💻
 - 👯 **I’m looking to collaborate on:** Anything I can learn from really! 😀
 - 📫 **How to reach me:** danieljohncode@tutanota.com
 - 😄 **Pronouns:** He/Him
+<br><br>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=danieljcode&layout=full)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljcode&layout=full&hide_border=true)
+## Skills and technologies
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) ![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows&logoColor=white) ![JS](https://img.shields.io/badge/Preferred%20language-Javascript-blue?style=flat-square&logo=javascript&logoColor=white) 
 
-<br>
+![SKILL](https://img.shields.io/badge/Learning-React-green?style=flat-square&logo=react&logoColor=white) ![SKILL](https://img.shields.io/badge/Learning-NodeJS-green?style=flat-square&logo=node&logoColor=white)
+<br><br>
 
-![Twitter stats](https://img.shields.io/twitter/follow/danieljcode?color=blue&label=Twitter%20FOLLOWERS&logo=twitter&style=for-the-badge)
-![Github stats](https://img.shields.io/github/followers/danieljcode?color=blue&label=GITHUB%20FOLLOWERS&logo=github&style=for-the-badge)
+## Contact me!
+##### Email, telegram, twitter:
+[![Tutanota](https://img.shields.io/badge/danieljohncode@tutanota.com%20-840010.svg?&style=flat-square&logo=&logoColor=white)](mailto:danieljohncode@tutanota.com) [![Telegram](https://img.shields.io/badge/danieljcode%20-32afed.svg?&style=flat-square&logo=Telegram&logoColor=white)](https://t.me/danieljcode)  [![Twitter](https://img.shields.io/badge/danieljcode%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/danieljcode)
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span><strong>Jvascript</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-        <td width="20%" align="center">
-        <span><strong>HTML5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>CSS3</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-       </td>
-       <td width="20%" align="center">
-        <span><strong>Learning node.js</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Basic PHP<br>(for college)</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>
-    </tr>
-      </tbody>
-</table>
-<br>
+<br><br>
+
+## Github stats
+
+<a href="https://github.com/danieljcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljcode&hide=java,html&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/danieljcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieljcode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
