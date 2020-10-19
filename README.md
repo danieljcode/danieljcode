@@ -16,7 +16,6 @@
 ##### Email, telegram, twitter:
 [![Tutanota](https://img.shields.io/badge/danieljohncode@tutanota.com%20-840010.svg?&style=flat-square&logo=&logoColor=white)](mailto:danieljohncode@tutanota.com) [![Telegram](https://img.shields.io/badge/danieljcode%20-32afed.svg?&style=flat-square&logo=Telegram&logoColor=white)](https://t.me/danieljcode)  [![Twitter](https://img.shields.io/badge/danieljcode%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/danieljcode)
 
-<br><br>
 
 ## Github stats
 
