@@ -2,7 +2,7 @@
 
 - 🔭 **I’m currently working on:** Learning Node.js and React 💻
 - 👯 **I’m looking to collaborate on:** Anything I can learn from really! 😀
-- 📫 **How to reach me:** danieljohncode@tutanota.com
+- 📫 **How to reach me:** danieljohncode@tutanota.com, <a href="https://t.me/danieljcode">Telegram</a>
 - 😄 **Pronouns:** He/Him
 <br><br>
 
