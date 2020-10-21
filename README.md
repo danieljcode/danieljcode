@@ -19,7 +19,7 @@
 ## Github stats
 
 <a href="https://github.com/danieljcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljcode&hide=java,html&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljcode&hide=html,css&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/danieljcode">
