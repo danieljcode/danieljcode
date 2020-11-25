@@ -9,6 +9,8 @@
 ## Skills and technologies
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) ![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows&logoColor=white) ![JS](https://img.shields.io/badge/Preferred%20language-Javascript-blue?style=flat-square&logo=javascript&logoColor=white) 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljcode&hide=html,css&title_color=black&text_color=black&icon_color=black&bg_color=#dedede"/>
+
 <br>
 
 ## Contact me!
