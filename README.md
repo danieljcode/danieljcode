@@ -34,8 +34,8 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danieljcode&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Daniel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljcode&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="165" src="https://YOUR-APP.vercel.app/api?username=danieljcode&show_icons=true&hide_border=true&theme=transparent" alt="Daniel's GitHub stats" />
+  <img height="165" src="https://YOUR-APP.vercel.app/api/top-langs/?username=danieljcode&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </div>
 
 <div align="center">
